@@ -1,0 +1,10 @@
+{
+  "name": "aws-node-express-api-project",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "express": "^4.17.1",
+    "request": "^2.88.2",
+    "serverless-http": "^2.7.0"
+  }
+}
